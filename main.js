@@ -17,5 +17,5 @@ canvas.add(block_image_object);
 }
 
 function playSound(){
-	x.play("bdayaudio.mp3");
+	x.play();
 }
